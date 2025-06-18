@@ -1,0 +1,15 @@
+{
+    "KPlugin": {
+        "Id": "focus_app",
+        "Name": "Focus App",
+        "Description": "Focus app and cycle through windows",
+        "Icon": "preferences-system-windows",
+        "Authors": [ { "Name": "keiwop" } ],
+        "Version": "0.1",
+        "License": "GPL-3.0+",
+        "Website": "https://bitbucket.org/keiwop/kwin_focus_app"
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
